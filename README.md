@@ -1,5 +1,5 @@
 # filter-products
-data extraction with fake store api, storable application
+Bir api'dan veri çekilerek , verilerin puanlamaya göre filtrelendiği uygulama
 ## source
 https://fakestoreapi.com/ , https://fakestoreapi.com/products
 ### Demo
